@@ -11,8 +11,9 @@ public class Compensation {
 	private float salary;
 	
 	private Date effectiveDate;
-	
 
+	public Compensation() {
+	}
 
 	public Employee getEmployee() {
 		return employee;
